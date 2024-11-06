@@ -19,8 +19,9 @@ This project demonstrates an interactive Bank Loan Performance Dashboard built i
 2. **Excel Setup:** Open `Bank_Loan_Performance_Dashboard.xlsx` and ensure the data connection is active if re-importing from SQL Server.
 
 ## Dashboard Screenshots
-![Dashboard Screenshot 1](images/Summary Dashboard.png)
-![Dashboard Screenshot 2](images/Overview Dashboard.png)
+![Summary Dashboard](images/Summary%20Dashboard.png)
+![Overview Dashboard](images/Overview%20Dashboard.png)
+
 
 ## Skills Demonstrated
 - **Excel:** Advanced functions, pivot tables, charting, conditional formatting.
