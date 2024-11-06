@@ -9,6 +9,7 @@ This project demonstrates an interactive Bank Loan Performance Dashboard built i
   
 ## Files
 - `Bank_Loan_Performance_Dashboard.xlsx`: The main Excel file containing the dashboard and analysis.
+- `Bank Loan Data.xlsx`: The Excel file containing raw data.
 - `data_extraction_query.sql`: SQL query used to import data into Excel.
 - `images/`: Screenshots of the dashboard for reference.
 - `README.md`: Project documentation and setup instructions.
