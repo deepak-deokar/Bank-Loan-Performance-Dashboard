@@ -26,7 +26,3 @@ This project demonstrates an interactive Bank Loan Performance Dashboard built i
 ## Skills Demonstrated
 - **Excel:** Advanced functions, pivot tables, charting, conditional formatting.
 - **SQL Server:** Data extraction and transformation.
-
----
-
-This README gives a clear, professional overview of your project. Let me know if you’d like any further customization!
